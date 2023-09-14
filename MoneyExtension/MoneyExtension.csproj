@@ -17,13 +17,12 @@
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageIcon>icon.png</PackageIcon>
     <PackageTags>Money;integer;int;decimal;converter</PackageTags>
-    <ReleaseNotes></ReleaseNotes>
     <Title>MoneyExtensions</Title>
     <Summary>Extension to convert decimal to integer</Summary>
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="..\Media\icon.png" Pack="true" PackagePath="\" />
+    <None Include="..\Media\icon.png" Pack="true" PackagePath="\"/>
   </ItemGroup>
 
 </Project>
