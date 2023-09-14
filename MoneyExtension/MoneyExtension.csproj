@@ -5,6 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
 
+
     <PackageId>MoneyExtensions</PackageId>
     <Version>1.0.0</Version>
     <License>MIT</License>
@@ -16,7 +17,7 @@
     <PackageProjectUrl>https://github.com/patricioor/money-extensions</PackageProjectUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageIcon>icon.png</PackageIcon>
-    <PackageTags>Money;integer;int;decimal;converter</PackageTags>
+    <PackageTags>integer;int;decimal;converter</PackageTags>
     <Title>MoneyExtensions</Title>
     <Summary>Extension to convert decimal to integer</Summary>
   </PropertyGroup>
