@@ -5,7 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
 
-    <PackageId>MoneyExtensionFor</PackageId>
+    <PackageId>MoneyExtensionFor123</PackageId>
     <Version>1.0.0</Version>
     <License>MIT</License>
     <Authors>Patrício Rios</Authors>
@@ -17,7 +17,7 @@
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageIcon>icon.png</PackageIcon>
     <PackageTags>integer;int;decimal;converter</PackageTags>
-    <Title>MoneyExtensionFor</Title>
+    <Title>MoneyExtensionFor123</Title>
     <Summary>Extension to convert decimal to integer</Summary>
   </PropertyGroup>
 
